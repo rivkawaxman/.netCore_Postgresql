@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{125F8B63-48CD-41AB-A6EF-A24102999E9E}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.Test.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test.API/Startup.cs">
+    <Files>
+      <File FileName="Test.API/Startup.cs" Line="38" Column="13" />
+      <File FileName="Test.API/appsettings.json" Line="1" Column="1" />
+      <File FileName="Test.API/Program.cs" Line="20" Column="34" />
+      <File FileName="Test.API/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="Test.API/appsettings.Development.json" Line="9" Column="6" />
+      <File FileName="Test.API/Controllers/ProductsController.cs" Line="24" Column="29" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/5.2.0/lib/mono/msbuild/15.0/bin/Microsoft.Common.CurrentVersion.targets" Line="2002" Column="34" />
+      <File FileName="Test.Data/Class1.cs" Line="1" Column="1" />
+      <File FileName="Test.Data/ProductsDB.cs" Line="14" Column="9" />
+      <File FileName="Test.Data/Models/Product.cs" Line="37" Column="1" />
+      <File FileName="Test.Data/Repositories/ProductsRepo.cs" Line="18" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rivkawaxman/Projects/Test/Test.API/Startup.cs" relfile="Test.API/Startup.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

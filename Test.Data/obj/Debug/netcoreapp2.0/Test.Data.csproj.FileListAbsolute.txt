@@ -1,0 +1,8 @@
+/Users/rivkawaxman/Projects/Test/Test.Data/bin/Debug/netcoreapp2.0/Test.Data.deps.json
+/Users/rivkawaxman/Projects/Test/Test.Data/bin/Debug/netcoreapp2.0/Test.Data.dll
+/Users/rivkawaxman/Projects/Test/Test.Data/bin/Debug/netcoreapp2.0/Test.Data.pdb
+/Users/rivkawaxman/Projects/Test/Test.Data/obj/Debug/netcoreapp2.0/Test.Data.csproj.CoreCompileInputs.cache
+/Users/rivkawaxman/Projects/Test/Test.Data/obj/Debug/netcoreapp2.0/Test.Data.AssemblyInfoInputs.cache
+/Users/rivkawaxman/Projects/Test/Test.Data/obj/Debug/netcoreapp2.0/Test.Data.AssemblyInfo.cs
+/Users/rivkawaxman/Projects/Test/Test.Data/obj/Debug/netcoreapp2.0/Test.Data.dll
+/Users/rivkawaxman/Projects/Test/Test.Data/obj/Debug/netcoreapp2.0/Test.Data.pdb

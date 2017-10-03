@@ -1,0 +1,14 @@
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.API.deps.json
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.API.runtimeconfig.json
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.API.runtimeconfig.dev.json
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.API.dll
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.API.pdb
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.Data.dll
+/Users/rivkawaxman/Projects/Test/Test.API/bin/Debug/netcoreapp2.0/Test.Data.pdb
+/Users/rivkawaxman/Projects/Test/Test.API/obj/Debug/netcoreapp2.0/Test.API.csprojResolveAssemblyReference.cache
+/Users/rivkawaxman/Projects/Test/Test.API/obj/Debug/netcoreapp2.0/Test.API.csproj.CoreCompileInputs.cache
+/Users/rivkawaxman/Projects/Test/Test.API/obj/Debug/netcoreapp2.0/Test.API.AssemblyInfoInputs.cache
+/Users/rivkawaxman/Projects/Test/Test.API/obj/Debug/netcoreapp2.0/Test.API.AssemblyInfo.cs
+/Users/rivkawaxman/Projects/Test/Test.API/obj/Debug/netcoreapp2.0/Test.API.dll
+/Users/rivkawaxman/Projects/Test/Test.API/obj/Debug/netcoreapp2.0/Test.API.pdb
